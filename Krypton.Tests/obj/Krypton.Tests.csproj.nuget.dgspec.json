@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Tests\\Krypton.Tests.csproj": {}
+  },
+  "projects": {
+    "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Core\\Krypton.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Core\\Krypton.Core.csproj",
+        "projectName": "Krypton.Core",
+        "projectPath": "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Core\\Krypton.Core.csproj",
+        "packagesPath": "C:\\Users\\testingsystem\\.nuget\\packages\\",
+        "outputPath": "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "AsmResolver.DotNet": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            }
+          },
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.313, 9.0.313]"
+            }
+          ],
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Pipeline\\Krypton.Pipeline.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Pipeline\\Krypton.Pipeline.csproj",
+        "projectName": "Krypton.Pipeline",
+        "projectPath": "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Pipeline\\Krypton.Pipeline.csproj",
+        "packagesPath": "C:\\Users\\testingsystem\\.nuget\\packages\\",
+        "outputPath": "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Pipeline\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "AsmResolver.DotNet": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "System.Reflection.Metadata": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Runtime.Loader": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            }
+          },
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.313, 9.0.313]"
+            }
+          ],
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Tests\\Krypton.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Tests\\Krypton.Tests.csproj",
+        "projectName": "Krypton.Tests",
+        "projectPath": "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Tests\\Krypton.Tests.csproj",
+        "packagesPath": "C:\\Users\\testingsystem\\.nuget\\packages\\",
+        "outputPath": "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Core\\Krypton.Core.csproj": {
+                "projectPath": "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Core\\Krypton.Core.csproj"
+              },
+              "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Pipeline\\Krypton.Pipeline.csproj": {
+                "projectPath": "Z:\\aq\\temp\\krypton-devirtualizer-main\\krypton-devirtualizer-main\\Krypton.Pipeline\\Krypton.Pipeline.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.3.0, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.313, 9.0.313]"
+            }
+          ],
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
