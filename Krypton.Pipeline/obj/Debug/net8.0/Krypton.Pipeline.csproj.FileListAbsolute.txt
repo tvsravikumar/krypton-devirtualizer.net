@@ -1,0 +1,15 @@
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\bin\Debug\net8.0\Krypton.Pipeline.deps.json
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\bin\Debug\net8.0\Krypton.Pipeline.dll
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\bin\Debug\net8.0\Krypton.Pipeline.pdb
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\bin\Debug\net8.0\Krypton.Core.dll
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\bin\Debug\net8.0\Krypton.Core.pdb
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\obj\Debug\net8.0\Krypton.Pipeline.csproj.AssemblyReference.cache
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\obj\Debug\net8.0\Krypton.Pipeline.GeneratedMSBuildEditorConfig.editorconfig
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\obj\Debug\net8.0\Krypton.Pipeline.AssemblyInfoInputs.cache
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\obj\Debug\net8.0\Krypton.Pipeline.AssemblyInfo.cs
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\obj\Debug\net8.0\Krypton.Pipeline.csproj.CoreCompileInputs.cache
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\obj\Debug\net8.0\Krypton..7D32B836.Up2Date
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\obj\Debug\net8.0\Krypton.Pipeline.dll
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\obj\Debug\net8.0\refint\Krypton.Pipeline.dll
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\obj\Debug\net8.0\Krypton.Pipeline.pdb
+Z:\aq\temp\krypton-devirtualizer-main\krypton-devirtualizer-main\Krypton.Pipeline\obj\Debug\net8.0\ref\Krypton.Pipeline.dll
